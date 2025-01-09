@@ -1,0 +1,15 @@
+<{>
+    <STRING,numbers>
+    <:>
+    <[>
+        <NUMBER,24>
+        <,>
+        <NUMBER,-3>
+        <,>
+        <NUMBER,1.23E12>
+    <]>
+    <,>
+    <STRING,colour>
+    <:>
+    <STRING,green>
+<}>

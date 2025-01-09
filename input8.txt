@@ -1,0 +1,12 @@
+<{>
+        <STRING,pickle>
+        <NUMBER,1>
+        <,>
+        <NUMBER,123>
+        <:>
+        <NUMBER,2>
+        <,>
+        <STRING,pickle>
+        <:>
+        <NUMBER,3>
+<}>

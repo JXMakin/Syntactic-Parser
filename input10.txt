@@ -1,0 +1,13 @@
+<[>
+    <NULL,null>
+
+<[>
+    <STRING,true>
+    <BOOLEAN,false>
+    <,>
+    <STRING,potato>
+<]>
+<{>
+    <:>
+    <STRING,null>
+<}>

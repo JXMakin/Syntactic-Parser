@@ -1,0 +1,17 @@
+<[>
+    <{>
+        <STRING,Pets>
+        <:>
+        <{>
+            <STRING,cat>
+            <:>
+            <NUMBER,123>
+        <}>
+    <}>
+    <,>
+    <{>
+        <STRING,age>
+        <:>
+        <NUMBER,2.0>
+    <}>
+<]>

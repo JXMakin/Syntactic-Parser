@@ -1,0 +1,9 @@
+<{>
+        <STRING,>
+        <:>
+        <STRING,value>
+<}>
+<{>
+        <STRING,key>
+        <:>
+<}>
